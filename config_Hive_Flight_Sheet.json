@@ -1,0 +1,15 @@
+{
+	"name":"You_Name_Flight_Sheet","isFavorite":false,"items":[
+		{
+			"coin":"NRG","wal_id":1499049,"miner":"custom","miner_alt":"energiminer","miner_config":
+			{
+				"url":"url:port",
+				"pass":"rpc_login:rpc_pass",
+				"miner":"energiminer",
+				"template":"%WAL%",
+				"install_url":"https://raw.githubusercontent.com/GRinvest/energiminer/master/energiminer.tar.gz",
+				"user_config":"--cuda"
+			}
+		}
+	]
+}
